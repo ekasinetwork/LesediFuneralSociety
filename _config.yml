@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jrkyll-feed
+  - jekyll-include-cache
+  - jekyll-archives
+
+whitelist:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jrkyll-feed
+  - jekyll-include-cache
+  - jekyll-archives
